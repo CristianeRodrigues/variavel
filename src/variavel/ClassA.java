@@ -17,8 +17,11 @@ public class ClassA {
     public void soma(){
         int x;
         
-        int a = x;
+        int a = x + x;
         
+    }
+    public void multi(){
+        this.soma();
     }
   
     
