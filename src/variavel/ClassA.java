@@ -14,10 +14,15 @@ public class ClassA {
     int codigoA;
     String nomeA;
     
+    public void subtracao(){
+        int a;
+    }
+    
     public void soma(){
         int y;
         
         int a = x;
+        System.out.println("teste");
         
     }
   
