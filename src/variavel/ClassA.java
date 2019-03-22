@@ -17,6 +17,8 @@ public class ClassA {
     public void soma(){
         int y;
         
+        int a = x;
+        
     }
   
     
