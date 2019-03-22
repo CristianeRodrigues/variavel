@@ -19,7 +19,7 @@ public class ClassA {
     }
     
     public void soma(){
-        int y;
+        int b;
         
         int a = x;
         System.out.println("teste");
