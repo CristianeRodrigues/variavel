@@ -15,7 +15,7 @@ public class ClassA {
     String nomeA;
     
     public void soma(){
-        int x;
+        int y;
         
     }
   
