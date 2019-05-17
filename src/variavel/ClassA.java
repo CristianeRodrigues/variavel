@@ -21,9 +21,16 @@ public class ClassA {
     public void soma(){
         int b;
         
+<<<<<<< HEAD
         int a = x;
         System.out.println("teste");
+=======
+        int a = x + x;
+>>>>>>> feature
         
+    }
+    public void multi(){
+        this.soma();
     }
   
     
