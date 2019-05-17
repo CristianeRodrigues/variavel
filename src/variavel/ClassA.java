@@ -19,14 +19,10 @@ public class ClassA {
     }
     
     public void soma(){
-        int b;
-        
-<<<<<<< HEAD
-        int a = x;
+        int b = 0;
+       
+        int a = b;
         System.out.println("teste");
-=======
-        int a = x + x;
->>>>>>> feature
         
     }
     public void multi(){
