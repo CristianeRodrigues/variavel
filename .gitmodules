@@ -1,0 +1,3 @@
+[submodule "variable"]
+	path = variable
+	url = https://github.com/CristianeRodrigues/variable
